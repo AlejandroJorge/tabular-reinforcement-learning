@@ -8,7 +8,7 @@ A collection of foundational Reinforcement Learning algorithms implementation in
     * [Simple Bandit Algorithm (ϵ-Greedy)](https://github.com/AlejandroJorge/tabular-reinforcement-learning/blob/main/bandit.ipynb)
     * [Optimistic Initial Values](https://github.com/AlejandroJorge/tabular-reinforcement-learning/blob/main/bandit.ipynb)
     * [Upper Confidence Bound (UCB)](https://github.com/AlejandroJorge/tabular-reinforcement-learning/blob/main/bandit.ipynb)
-    * Gradient Bandits (to be implemented)
+    * [Gradient Bandits](https://github.com/AlejandroJorge/tabular-reinforcement-learning/blob/main/bandit.ipynb)
 
 ## References
 
